@@ -2,6 +2,7 @@ Router>enable
 Router#show running-config
 Building configuration...
 
+
 Current configuration : 1091 bytes
 !
 version 17.6.3
